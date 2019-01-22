@@ -1,3 +1,4 @@
 .vscode/*
 bin/*
 obj/*
+obj/Debug/netcoreapp2.2/myGame1.assets.cache
