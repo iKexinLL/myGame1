@@ -5,7 +5,7 @@ namespace myGame1.interfaces
          void AttackBehavior();
     }
 
-    // Ò»´Î¹¥»÷Ò»ÏÂ
+    // ä¸€æ¬¡æ”»å‡»ä¸€ä¸‹
     public class AttackOneTime : IAttackBehavior
     {
         void IAttackBehavior.AttackBehavior()
@@ -14,7 +14,7 @@ namespace myGame1.interfaces
         }
     }
 
-    // ÎÞ·¨¹¥»÷
+    // æ— æ³•æ”»å‡»
     public class AttackZeroTime : IAttackBehavior
     {
         public void AttackBehavior()
